@@ -1,6 +1,24 @@
 ProBuilder - Unity Technologies
 https://assetstore.unity.com/packages/3d/environments/landscapes/rock-62657
 
+Magic Mirror Reflection for Unity - Digital Ruby (Jeff Johnson)
+https://assetstore.unity.com/packages/tools/particles-effects/magic-mirror-reflection-for-unity-34824
+
 Rocks:
   Rock - VSIFY
   https://assetstore.unity.com/packages/3d/environments/landscapes/rock-62657
+
+  Low Poly Forest Pack - Jaks
+  https://jaks.itch.io/lowpolyforestpack
+
+  Low Poly 3D and Pixel 2D RPG Game Assets - Devils Garage
+  https://devilsgarage.itch.io/low-poly-3d-and-pixel-2d-rpg-game-assets
+
+  Stylised Box - cody1712
+  https://cody1712.itch.io/stylised-box
+
+  Low Poly Nature Assets - JackDotGriff
+  https://jackdotgriff.itch.io/low-poly-nature-assets
+
+  Rock & Boulders - Manufactura K4
+  https://assetstore.unity.com/packages/3d/environments/rock-boulders-2452
