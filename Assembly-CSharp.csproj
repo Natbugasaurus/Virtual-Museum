@@ -51,6 +51,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\_MK\MKGlassFree\MKGlassFreeMaterialHelper.cs" />
      <Compile Include="Assets\First Person Drifter Controller\Scripts\FirstPersonDrifter.cs" />
      <Compile Include="Assets\First Person Drifter Controller\Scripts\LockMouse.cs" />
      <Compile Include="Assets\First Person Drifter Controller\Scripts\MouseLook.cs" />
@@ -83,28 +84,46 @@
      <None Include="Assets\MaxReadMe.txt" />
      <None Include="Assets\ProCore\ProBuilder\Shader\DiffuseVertexColor.shader" />
      <None Include="Assets\MagicMirror\Prefab\MirrorShaderBumpMap.shader" />
+     <None Include="Assets\_MK\MKGlassFree\Shader\MKGlassCommonFree.shader" />
+     <None Include="Assets\_MK\MKGlassFree\Shader\Inc\Common\MKGlassInc.cginc" />
      <None Include="Assets\ProCore\ProBuilder\Shader\pb_FaceHighlight.shader" />
+     <None Include="Assets\_MK\MKGlassFree\Shader\Inc\Meta\MKGlassMetaIO.cginc" />
      <None Include="Assets\ProCore\ProBuilder\Shader\pb_UnlitSolidColor.shader" />
      <None Include="Assets\ProCore\ProBuilder\Shader\pb_ReferenceUnlit.shader" />
+     <None Include="Assets\_MK\MKGlassFree\Shader\Inc\Surface\MKGlassSurface.cginc" />
+     <None Include="Assets\_MK\MKGlassFree\Shader\Inc\Meta\MKGlassMeta.cginc" />
+     <None Include="Assets\_MK\MKGlassFree\Shader\Inc\Common\MKGlassLight.cginc" />
      <None Include="Assets\ProCore\ProBuilder\Shader\DiffuseTextureBlend.shader" />
+     <None Include="Assets\_MK\MKGlassFree\Shader\Inc\Forward\MKGlassForward.cginc" />
+     <None Include="Assets\_MK\MKGlassFree\Shader\Inc\VertexLit\MKGlassVertexLitIO.cginc" />
+     <None Include="Assets\_MK\MKGlassFree\Shader\Inc\Forward\MKGlassForwardIO.cginc" />
      <None Include="Assets\ProCore\ProBuilder\Shader\pb_StandardVertexColor.shader" />
      <None Include="Assets\First Person Drifter Controller\info.txt" />
+     <None Include="Assets\_MK\MKGlassFree\Shader\Inc\Common\MKGlassDef.cginc" />
+     <None Include="Assets\_MK\MKGlassFree\Shader\Inc\Common\MKGlassV.cginc" />
      <None Include="Assets\ProCore\ProBuilder\Shader\pb_VertexPicker.shader" />
+     <None Include="Assets\_MK\MKGlassFree\Shader\MKGlassFree.shader" />
      <None Include="Assets\ProCore\ProBuilder\Shader\pb_HideVertices.shader" />
      <None Include="Assets\MagicMirror\Prefab\Readme.txt" />
      <None Include="Assets\ProCore\ProBuilder\About\ThirdPartyLicenses.txt" />
+     <None Include="Assets\_MK\MKGlassFree\Shader\Inc\Forward\MKGlassForwardAddSetup.cginc" />
      <None Include="Assets\ProCore\ProBuilder\Shader\pb_UnlitVertexColor.shader" />
      <None Include="Assets\ProCore\ProBuilder\Shader\pb_FacePicker.shader" />
      <None Include="Assets\ProCore\ProBuilder\About\Font\SIL Open Font License.txt" />
      <None Include="Assets\ProCore\ProBuilder\About\pc_AboutEntry_ProBuilder.txt" />
      <None Include="Assets\ProCore\ProBuilder\Shader\pb_VertexShader.shader" />
+     <None Include="Assets\_MK\MKGlassFree\Shader\Inc\Forward\MKGlassForwardBaseSetup.cginc" />
      <None Include="Assets\ProCore\ProBuilder\Shader\pb_NormalPreview.shader" />
      <None Include="Assets\PROCJAM2017-DevilsGarage\ReadMe.txt" />
+     <None Include="Assets\_MK\MKGlassFree\Shader\Inc\Meta\MKGlassMetaSetup.cginc" />
      <None Include="Assets\MagicMirror\Prefab\MirrorShader.shader" />
      <None Include="Assets\ProCore\ProBuilder\Shader\pb_ScrollHighlight.shader" />
      <None Include="Assets\ProCore\ProBuilder\readme.txt" />
+     <None Include="Assets\_MK\MKGlassFree\Shader\Inc\VertexLit\MKGlassVertexLitSetup.cginc" />
      <None Include="Assets\AssetList.txt" />
      <None Include="Assets\ProCore\ProBuilder\Shader\pb_SmoothingPreview.shader" />
+     <None Include="Assets\_MK\MKGlassFree\Shader\Inc\VertexLit\MKGlassVertexLit.cginc" />
+     <None Include="Assets\_MK\MKGlassFree\Shader\Inc\Surface\MKGlassSurfaceIO.cginc" />
  <Reference Include="UnityEngine.UI">
  <HintPath>D:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
