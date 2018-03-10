@@ -13,6 +13,12 @@ https://assetstore.unity.com/packages/2d/textures-materials/floors/hand-painted-
 MK Glass Free - Michael Kremmel
 https://assetstore.unity.com/packages/vfx/shaders/mk-glass-free-100712
 
+Low Poly Gun Pack - Duane's Mind
+https://assetstore.unity.com/packages/3d/props/guns/low-poly-gun-pack-4725
+
+WWII German Helmet - jgordinho
+https://www.turbosquid.com/FullPreview/Index.cfm/ID/672646
+
 Rocks:
   Rock - VSIFY
   https://assetstore.unity.com/packages/3d/environments/landscapes/rock-62657
