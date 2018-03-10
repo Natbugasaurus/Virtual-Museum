@@ -19,6 +19,18 @@ https://assetstore.unity.com/packages/3d/props/guns/low-poly-gun-pack-4725
 WWII German Helmet - jgordinho
 https://www.turbosquid.com/FullPreview/Index.cfm/ID/672646
 
+LazyFog - Lemonspawn
+https://assetstore.unity.com/packages/vfx/shaders/lazyfog-33711
+
+Guitar And Amp - Sakari Games
+https://assetstore.unity.com/packages/3d/props/electronics/guitar-and-amp-12177
+
+Drum_set - Sam_Stunner
+https://www.turbosquid.com/FullPreview/Index.cfm/ID/501607
+
+Electric Guitar - Explosive
+https://assetstore.unity.com/packages/3d/props/electric-guitar-12420
+
 Rocks:
   Rock - VSIFY
   https://assetstore.unity.com/packages/3d/environments/landscapes/rock-62657
@@ -37,3 +49,10 @@ Rocks:
 
   Rock & Boulders - Manufactura K4
   https://assetstore.unity.com/packages/3d/environments/rock-boulders-2452
+
+Sounds:
+  HIGH OCTANE - Bensound
+  https://www.bensound.com/royalty-free-music/track/high-octane-heavy-hard-rock-metal
+
+  War sounds - 1stWebArmy
+  https://freesound.org/people/1stWebArmy/sounds/112478/

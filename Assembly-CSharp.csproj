@@ -61,6 +61,7 @@
      <Compile Include="Assets\First Person Drifter Controller\Scripts\Optional\HeadBob.cs" />
      <Compile Include="Assets\First Person Drifter Controller\Scripts\Optional\PauseMenu.cs" />
      <Compile Include="Assets\First Person Drifter Controller\Scripts\Utils\CameraFade.cs" />
+     <Compile Include="Assets\LazyFog\Scripts\exampleSceneScript.cs" />
      <Compile Include="Assets\MagicMirror\Prefab\MirrorCameraScript.cs" />
      <Compile Include="Assets\MagicMirror\Prefab\MirrorReflectionScript.cs" />
      <Compile Include="Assets\MagicMirror\Prefab\MirrorScript.cs" />
@@ -88,6 +89,7 @@
      <None Include="Assets\_MK\MKGlassFree\Shader\Inc\Common\MKGlassInc.cginc" />
      <None Include="Assets\ProCore\ProBuilder\Shader\pb_FaceHighlight.shader" />
      <None Include="Assets\_MK\MKGlassFree\Shader\Inc\Meta\MKGlassMetaIO.cginc" />
+     <None Include="Assets\LazyFog\Shaders\LazyFog.shader" />
      <None Include="Assets\ProCore\ProBuilder\Shader\pb_UnlitSolidColor.shader" />
      <None Include="Assets\ProCore\ProBuilder\Shader\pb_ReferenceUnlit.shader" />
      <None Include="Assets\_MK\MKGlassFree\Shader\Inc\Surface\MKGlassSurface.cginc" />
@@ -111,6 +113,7 @@
      <None Include="Assets\ProCore\ProBuilder\Shader\pb_FacePicker.shader" />
      <None Include="Assets\ProCore\ProBuilder\About\Font\SIL Open Font License.txt" />
      <None Include="Assets\ProCore\ProBuilder\About\pc_AboutEntry_ProBuilder.txt" />
+     <None Include="Assets\LazyFog\Instructions.txt" />
      <None Include="Assets\ProCore\ProBuilder\Shader\pb_VertexShader.shader" />
      <None Include="Assets\_MK\MKGlassFree\Shader\Inc\Forward\MKGlassForwardBaseSetup.cginc" />
      <None Include="Assets\ProCore\ProBuilder\Shader\pb_NormalPreview.shader" />
