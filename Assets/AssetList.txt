@@ -56,3 +56,6 @@ Sounds:
 
   War sounds - 1stWebArmy
   https://freesound.org/people/1stWebArmy/sounds/112478/
+
+  Fanfare1 - Neonaeon
+  https://freesound.org/people/neonaeon/sounds/49477/
