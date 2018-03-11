@@ -1,0 +1,64 @@
+ProBuilder - Unity Technologies
+https://assetstore.unity.com/packages/3d/environments/landscapes/rock-62657
+
+Magic Mirror Reflection for Unity - Digital Ruby (Jeff Johnson)
+https://assetstore.unity.com/packages/tools/particles-effects/magic-mirror-reflection-for-unity-34824
+
+Satanic Lord Throne - DarksProducer
+https://sketchfab.com/models/34bc8463a1c44e70a21cd8ff9a677189
+
+Hand Painted Stone Texture - LowlyPoly
+https://assetstore.unity.com/packages/2d/textures-materials/floors/hand-painted-stone-texture-73949
+
+MK Glass Free - Michael Kremmel
+https://assetstore.unity.com/packages/vfx/shaders/mk-glass-free-100712
+
+Low Poly Gun Pack - Duane's Mind
+https://assetstore.unity.com/packages/3d/props/guns/low-poly-gun-pack-4725
+
+WWII German Helmet - jgordinho
+https://www.turbosquid.com/FullPreview/Index.cfm/ID/672646
+
+LazyFog - Lemonspawn
+https://assetstore.unity.com/packages/vfx/shaders/lazyfog-33711
+
+Guitar And Amp - Sakari Games
+https://assetstore.unity.com/packages/3d/props/electronics/guitar-and-amp-12177
+
+Drum_set - Sam_Stunner
+https://www.turbosquid.com/FullPreview/Index.cfm/ID/501607
+
+Electric Guitar - Explosive
+https://assetstore.unity.com/packages/3d/props/electric-guitar-12420
+
+The Rock PNG - Eric
+http://www.pngmart.com/image/29925
+
+Rocks:
+  Rock - VSIFY
+  https://assetstore.unity.com/packages/3d/environments/landscapes/rock-62657
+
+  Low Poly Forest Pack - Jaks
+  https://jaks.itch.io/lowpolyforestpack
+
+  Low Poly 3D and Pixel 2D RPG Game Assets - Devils Garage
+  https://devilsgarage.itch.io/low-poly-3d-and-pixel-2d-rpg-game-assets
+
+  Stylised Box - cody1712
+  https://cody1712.itch.io/stylised-box
+
+  Low Poly Nature Assets - JackDotGriff
+  https://jackdotgriff.itch.io/low-poly-nature-assets
+
+  Rock & Boulders - Manufactura K4
+  https://assetstore.unity.com/packages/3d/environments/rock-boulders-2452
+
+Sounds:
+  HIGH OCTANE - Bensound
+  https://www.bensound.com/royalty-free-music/track/high-octane-heavy-hard-rock-metal
+
+  War sounds - 1stWebArmy
+  https://freesound.org/people/1stWebArmy/sounds/112478/
+
+  Fanfare1 - Neonaeon
+  https://freesound.org/people/neonaeon/sounds/49477/

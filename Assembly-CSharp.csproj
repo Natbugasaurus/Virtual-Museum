@@ -82,7 +82,6 @@
      <None Include="Assets\ProCore\ProBuilder\API Examples\Icosphere FFT\README.txt" />
      <None Include="Assets\ProCore\ProBuilder\Shader\pb_SelectionPicker.shader" />
      <None Include="Assets\ProCore\ProBuilder\About\changelog.txt" />
-     <None Include="Assets\MaxReadMe.txt" />
      <None Include="Assets\ProCore\ProBuilder\Shader\DiffuseVertexColor.shader" />
      <None Include="Assets\MagicMirror\Prefab\MirrorShaderBumpMap.shader" />
      <None Include="Assets\_MK\MKGlassFree\Shader\MKGlassCommonFree.shader" />
